@@ -24,3 +24,10 @@ Python code (.py or .ipynb)
 Model performance metrics
 
 Summary report explaining the approach, features used, and key insights
+
+Output
+
+![Screenshot 2025-07-02 040042](https://github.com/user-attachments/assets/5956b56e-13b7-4432-bc97-6ff5e892a48a)
+
+![Screenshot 2025-07-02 040053](https://github.com/user-attachments/assets/8af71a68-fc96-4199-afc5-694fadfcb533)
+
